@@ -58,7 +58,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </table>
 ### Github Stats
 
-[![Aslam Parvej GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslamparvej&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Aslam Parvej GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslamparvej&show_icons=true&count_private=true)](https://github.com/aslamparvej)
 
 ### Github Repos
 
