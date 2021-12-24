@@ -6,7 +6,7 @@
 ### Hi there 👋 I'm [ Aslam Parvej ]
 >B.Tech in CSE
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=aslamparvej" alt="anandmainali" />
 
 <div>
  <p>
