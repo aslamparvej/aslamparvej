@@ -5,8 +5,8 @@
 
 ### Hi there 👋 I'm [ Aslam Parvej ]
 >B.Tech in CSE
-
-<img src="https://komarev.com/ghpvc/?username=aslamparvej" alt="aslamparvej" />
+<!-- 
+<img src="https://komarev.com/ghpvc/?username=aslamparvej" alt="aslamparvej" /> -->
 
 <div>
  <p>
