@@ -1,80 +1,31 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+<h1 align="center">Hi 👋, I'm Aslam Parvej</h1>
+<h3 align="center">WEB DEVELOPER || FINAL YEAR CSE STUDENT</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamparvej&label=Profile%20views&color=0e75b6&style=flat" alt="aslamparvej" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslamparvej" alt="aslamparvej" /></a> </p>
+
+- 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **JavaScript, PHP and ReactJS**
+
+- 📫 How to reach me **aslamparvej2@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aslamparvej10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslamparvej10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aslam-parvej-2810/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aslam-parvej-2810/" height="30" width="40" /></a>
 </p>
 
-### Hi there 👋 I'm [ Aslam Parvej ]
->B.Tech in CSE
-<!-- 
-<img src="https://komarev.com/ghpvc/?username=aslamparvej" alt="aslamparvej" /> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/aslamparvej"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aslamparvej" /></a></p><br><br><br>
 
 <div>
- <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aslamparvej&show_icons=true&locale=en" alt="aslamparvej" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslamparvej&" alt="aslamparvej" /> &nbsp;
 </div>
-
-### Programming Languages 🌐
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
- 
-### Tools 🛠️
- <table>
-  <tbody>
-      <tr valign="top">
-         <td width="25%" align="center">
-           <span>AWS</span><br><br><br>
-           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/aws.svg">
-         </td>
-         <td width="25%" align="center">
-           <span>𝗚𝗶𝘁</span><br><br><br>
-           <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-         </td>
-         <td width="25%" align="center">
-           <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-           <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-         </td>
-       </tr>
- </tbody>
-</table>
-
-### Github Stats
-
-[![Aslam Parvej GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslamparvej&show_icons=true&count_private=true)](https://github.com/aslamparvej)
-
-### Github Repos
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aslamparvej&repo=Crypto-Bazar&show_owner=true)](https://github.com/aslamparvej/Crypto-Bazar.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aslamparvej&repo=Food-Ordering-App&show_owner=true)](https://github.com/aslamparvej/Food-Ordering-App.git)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/aslam-parvej-2810/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aslamparvej-blue?style=flat&logo=linkedin"></a>
-<!-- <a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a> -->
-<a href="aslamparvej2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aslamparvej2@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-
-
-⭐️ From [@aslamparvej](https://github.com/aslamparvej)
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aslamparvej&show_icons=true&locale=en&layout=compact" alt="aslamparvej" /></p>
