@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslam Parvej</h1>
-<h3 align="center">WEB DEVELOPER || FINAL YEAR CSE STUDENT</h3>
+<h3 align="center">Software Engineer Level 1 || Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslamparvej&label=Profile%20views&color=0e75b6&style=flat" alt="aslamparvej" /> </p>
 
